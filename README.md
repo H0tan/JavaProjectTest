@@ -1,3 +1,0 @@
-# JavaProjectTest
-
-READ ME
